@@ -1,0 +1,17 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace />
+  <MonoDevelop.Ide.Workbench ActiveDocument="../../../ImpFiles/Unity/Packages/Demos/MobileSocialDemo/Assets/Scripts/TwitterUseExample.cs">
+    <Files>
+      <File FileName="../../../ImpFiles/Unity/Packages/Demos/MobileSocialDemo/Assets/Scripts/ShareScore.cs" Line="18" Column="23" />
+      <File FileName="../../../ImpFiles/Unity/Packages/Demos/MobileSocialDemo/Assets/Extensions/MobileSocialPlugin/Example/Scripts/InstagramUseExample.cs" Line="17" Column="2" />
+      <File FileName="../../../ImpFiles/Unity/Packages/Demos/MobileSocialDemo/Assets/Scripts/Button.cs" Line="50" Column="15" />
+      <File FileName="../../../ImpFiles/Unity/Packages/Demos/MobileSocialDemo/Assets/Scripts/TwitterUseExample.cs" Line="168" Column="14" />
+      <File FileName="../../../ImpFiles/Unity/Packages/Demos/MobileSocialDemo/Assets/Extensions/MobileSocialPlugin/Scripts/Core/SPTwitter.cs" Line="108" Column="20" />
+      <File FileName="../../../ImpFiles/Unity/Packages/Demos/MobileSocialDemo/Assets/Extensions/GooglePlayCommon/Interfaces/TwitterManagerInterface.cs" Line="22" Column="2" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
